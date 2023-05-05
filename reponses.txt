@@ -1,0 +1,7 @@
+a- La commande git fetch permet de télécharger un contenue depuis un dépôt distant tandis que le git pull permet de télécharger un contenue depuis un dépôt distant et de mettre a jour immédiatement de dépôt local .
+ b-Pour annuler les modification locale non validées il faut utiliser l’extraction Git pour ignorer rapidement les modifications et rétablir le fichier a sa dernière version validée.
+C- On doit entrer la commande git push origin –delete ‘’nom_de_la_branche 
+d- Pour voir l’historique des modification pour un fichier spécifique on tape la commande suivante git LOG  –follow chemin/du/fichier
+ 
+
+
